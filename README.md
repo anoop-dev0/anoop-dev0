@@ -2,11 +2,6 @@
 
 <!--
 **anoop-dev0/anoop-dev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I am a full stack developer working mostly with javascript technology.
-I love to learn and explore things and currently learning Rust-lang.
-
-You can reach me on - anoop.uietk@gmail.com
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-->
+I am a full stack developer working mostly with javascript technology.
+I love to learn and explore things and currently learning Rust-lang.
+
+You can reach me on - anoop.uietk@gmail.com
+
