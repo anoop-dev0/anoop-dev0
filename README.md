@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--->
-I am a full stack developer working mostly with javascript technology.
+
+I am a full stack developer working mostly with javascript technology. \n
 I love to learn and explore things and currently learning Rust-lang.
 
 You can reach me on - anoop.uietk@gmail.com
